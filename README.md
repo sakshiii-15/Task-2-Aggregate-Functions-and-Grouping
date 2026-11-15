@@ -105,4 +105,5 @@ HAVING AVG(salary) > 60000;
 ```
 
 ---
-
+## ✅ Conclusion
+This task taught me how to turn raw data into meaningful insights using SQL aggregation. I now confidently write grouped reports, filter with HAVING, handle NULLs correctly, and format results professionally — a strong foundation for real-world SQL development.
